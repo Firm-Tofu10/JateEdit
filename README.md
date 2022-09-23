@@ -41,7 +41,7 @@ Bryson Benson
 If you have any questions, please contact me at brysonnbenson10@gmail.com
 
 #### Live Depoyment
-
+https://jate-edit.herokuapp.com/
 
 #### Repo Link
-
+https://github.com/Firm-Tofu10/JateEdit
