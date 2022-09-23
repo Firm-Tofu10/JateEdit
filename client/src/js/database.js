@@ -34,7 +34,7 @@ export const getAllDb = async () => {
 	// get(1); might be correct but the comment says get all?
 	const result = await request;
 	// result ("Thought this may work like return at the end of a if?")
-	console.log("Got data from DB",result)
+	console.log("Got data from DB",result);
 	console.log("Did not get from DB");
 	return result;
 };
